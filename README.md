@@ -1,7 +1,4 @@
-The hyperspectral underwater target synthetic dataset (HUTSD) is coming soon.
-
-
-
+The data presented in this study are available on request from the first or corresponding author due to the privacy of the data sources.
 
 
 
